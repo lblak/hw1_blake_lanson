@@ -7,5 +7,19 @@
 
   <body>
     <h1> Added to Homework Title</h1>
+
+    <div>
+      <h2>About Myself</h2>
+      <p>Things about me:
+          <ul>
+            <li>I really enjoy music</li>
+            <li>I really enjoy fitness</li>
+            <li>I really enjoy food</li>
+            <li>I was born in Canada, but I grew up on Long Island, New York</li>
+            <li>In New York, I learned about graffitti</li>
+            <li>My graffitti career was halted when I got caught vandalizing a public restroom</li>
+            <li>I still doodle in my notebooks</li>
+          </ul>
+      </p>
   </body>
-</html  
+</html
